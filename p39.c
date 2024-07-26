@@ -79,3 +79,7 @@ int main() {
     return 0;
 }
 
+OUTPUT
+
+Track movement sequence: 50 -> 60 -> 80 -> 100 -> 120 -> 150 -> 200 -> 199 -> 0 -> 10 -> 20 -> 30 -> 50
+Total head movement: 201
