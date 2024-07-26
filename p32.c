@@ -73,3 +73,27 @@ int main() {
 
     return 0;
 }
+
+OUTPUT
+
+Reference string: 1
+Page table: 1 -1 -1 -1
+Reference string: 2
+Page table: 2 -1 -1 -1
+Reference string: 3
+Page table: 3 -1 -1 -1
+Reference string: 4
+Page table: 4 -1 -1 -1
+Reference string: 2
+Page table: 2 -1 -1 -1
+Reference string: 1
+Page table: 1 -1 -1 -1
+Reference string: 5
+Page table: 5 -1 -1 -1
+Reference string: 6
+Page table: 6 -1 -1 -1
+Reference string: 2
+Page table: 2 -1 -1 -1
+Reference string: 1
+Page table: 1 -1 -1 -1
+Page faults: 10
