@@ -81,3 +81,8 @@ int main() {
 
     return 0;
 }
+
+OUTPUT
+
+Block 1 found
+Block 3 found
