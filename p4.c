@@ -50,3 +50,35 @@
     printf("\n\nAverage Waiting Time=%f",avg_wt);
     printf("\nAverage Turnaround Time=%f\n",avg_tat);
 }
+
+OUTPUT
+
+Enter the total number of Processes: 3
+
+Please Enter the  Burst Time and Priority of each process:
+
+Enter the details of the process A
+Enter the burst time: 3
+Enter the priority: 1
+
+Enter the details of the process B
+Enter the burst time: 5
+Enter the priority: 2
+
+Enter the details of the process C
+Enter the burst time: 8
+Enter the priority: 0
+
+
+Process_name     Burst Time      Waiting Time     Turnaround Time
+------------------------------------------------------------
+          B               5              0               5
+-----------------------------------------------------------
+          A               3              5               8
+-----------------------------------------------------------
+          C               8              8               16
+-----------------------------------------------------------
+
+
+ Average Waiting Time : 4.333333
+ Average Turnaround Time: 9.666667
