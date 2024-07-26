@@ -31,3 +31,8 @@ int main()
 	fclose(fptr2);
 	return 0;
 }
+
+OUTPUT
+
+source file: HELLO
+Destination file: HELLO
