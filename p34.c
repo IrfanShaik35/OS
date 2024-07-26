@@ -59,3 +59,10 @@ int main() {
     return 0;
 }
 
+OUTPUT
+
+Record 0: 10
+Record 1: 20
+Record 2: 30
+Record 1: 20
+
