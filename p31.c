@@ -55,4 +55,27 @@ int main() {
     return 0;
 }
 
+OUTPUT
+
+Reference string: 1
+Page table: 1 -1 -1 -1
+Reference string: 2
+Page table: 1 2 -1 -1
+Reference string: 3
+Page table: 1 2 3 -1
+Reference string: 4
+Page table: 1 2 3 4
+Reference string: 2
+Page table: 1 2 3 4
+Reference string: 1
+Page table: 1 2 3 4
+Reference string: 5
+Page table: 5 2 3 4
+Reference string: 6
+Page table: 5 6 3 4
+Reference string: 2
+Page table: 5 6 2 4
+Reference string: 1
+Page table: 5 6 2 1
+Page faults: 8
 
