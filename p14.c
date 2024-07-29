@@ -140,3 +140,21 @@ printf("\n Process are in dead lock");
 printf("\n System is in unsafe state");
 }
 }
+
+OUTPUT
+
+********** Banker's Algo ************
+Enter the no of Processes       3
+Enter the no of resources instances     1
+Enter the Max Matrix
+1 2 3
+Enter the Allocation Matrix
+4 5 6
+Enter the available Resources
+7 8 9
+Process  Allocation      Max     Available
+P1       4      1       7
+P2       5      2
+P3       6      3
+P0->P1->P2->
+ The system is in safe state
