@@ -37,3 +37,6 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
+OUTPUT
+
+Usage: C:\Users\Dell\OneDrive\Documents\c\OS\p28.exe <pattern> <file1> [<file2> ...]
