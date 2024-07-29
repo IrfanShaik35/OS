@@ -79,3 +79,20 @@ int main() {
 
     return 0;
 }
+
+
+OUTPUT
+
+Philosopher 0 is eating.
+Philosopher 2 picked up forks 2 and 3.
+Philosopher 2 is eating.
+Philosopher 3 put down forks 3 and 4.
+Philosopher 3 is thinking.
+Philosopher 2 put down forks 2 and 3.
+Philosopher 2 is thinking.
+Philosopher 0 put down forks 0 and 1.
+Philosopher 0 is thinking.
+Philosopher 4 picked up forks 4 and 0.
+Philosopher 4 is eating.
+Philosopher 1 picked up forks 1 and 2.
+Philosopher 1 is eating.
