@@ -60,3 +60,15 @@ for(j = 0; j < no_of_frames; ++j){
 printf("\n\nTotal Page Faults = %d", faults);
     return 0;
 }
+
+OUTPUT
+
+Enter number of frames: 3
+Enter number of pages: 3
+Enter reference string: 4 5 6 2 8 2 8 5 7
+
+4       -1      -1
+4       5       -1
+4       5       6
+
+Total Page Faults = 3
