@@ -34,3 +34,13 @@ else
 exit(0);
 getch();
 }
+
+OUTPUT
+
+Files Allocated are :
+Enter starting block and length of files: 3 3
+3       1
+4       1
+5       1
+The file is allocated to disk
+Do you want to enter more file(Yes - 1/No - 0)0
