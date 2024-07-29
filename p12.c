@@ -45,4 +45,20 @@ printf("\n\t\t");
 printf("\n");
 }}
 
+OUTPUT
 
+enter number of directories:2
+enter directory 1 names:os
+enter size of directories:2
+enter subdirectory name and size:1 os1
+enter subdirectory name and size:1 os2
+enter file name:enter directory 2 names:ai
+enter size of directories:1
+enter subdirectory name and size:1 ai1
+
+dirname         size    subdirname      size    files
+******************************************************
+os              2       1               0
+                        os1             1       os2
+
+ai              1       1               0
