@@ -65,3 +65,13 @@ int main() {
 
     return 0;
 }
+
+OUTPUT
+
+File 'example.txt' created and opened for writing.
+Written 25 bytes to the file.
+File 'example.txt' closed after writing.
+File 'example.txt' opened for reading.
+Read 25 bytes from the file: Hello, UNIX System Calls!
+File 'example.txt' closed after reading.
+File 'example.txt' deleted.
