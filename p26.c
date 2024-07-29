@@ -94,3 +94,42 @@ int main() {
 
     return 0;
 }
+
+
+OUTPUT
+
+File Management Operations
+1. Create File
+2. Write to File
+3. Read from File
+4. Delete File
+5. Exit
+Enter your choice: 1
+Enter file name: os
+File os created successfully
+File Management Operations
+1. Create File
+2. Write to File
+3. Read from File
+4. Delete File
+5. Exit
+Enter your choice: 2
+Enter file name: os
+Enter content: hello
+Written to file os successfully
+File Management Operations
+1. Create File
+2. Write to File
+3. Read from File
+4. Delete File
+5. Exit
+Enter your choice: 3
+Enter file name: os
+Contents of file os:
+helloFile Management Operations
+1. Create File
+2. Write to File
+3. Read from File
+4. Delete File
+5. Exit
+Enter your choice: 5
