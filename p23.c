@@ -58,3 +58,22 @@ int main() {
 
     return 0;
 }
+
+
+OUTPUT
+
+Enter the number of memory blocks: 3
+Enter the sizes of the memory blocks:
+Block 1: 5
+Block 2: 3
+Block 3: 1
+Enter the number of processes: 3
+Enter the sizes of the processes:
+Process 1: 5
+Process 2: 8
+Process 3: 3
+
+Process No.     Process Size    Block No.
+1               5               1
+2               8               1
+3               3               2
