@@ -48,3 +48,10 @@ int main() {
     printf("All threads completed.\n");
     return 0;
 }
+
+OUTPUT
+
+Thread 1 is running. Thread ID: 1
+Thread 2 is running. Thread ID: 2
+Thread 1 and Thread 2 are not equal (different).
+All threads completed.
