@@ -145,3 +145,42 @@ int main() {
 
     return 0;
 }
+
+
+OUTPUT
+
+
+Employee Management System
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter your choice: 1
+Enter employee ID: 1
+Enter employee name: a
+Enter employee age: 20
+Enter employee salary: 20000
+Employee added successfully.
+
+Employee Management System
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter your choice: 2
+Enter employee ID to view: 1
+ID: 1
+Name: a
+Age: 20
+Salary: 20000.00
+
+Employee Management System
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter your choice: 5
+Exiting...
