@@ -39,3 +39,21 @@ void eat(int phil)
 {
 	printf("\nPhilosopher %d is eating",phil);
 }
+
+OUTPUT
+
+Philosopher 0 has entered room
+Philosopher 1 has entered room
+Philosopher 2 has entered room
+Philosopher 2 is eating
+Philosopher 3 has entered room
+Philosopher 0 is eating
+Philosopher 2 has finished eating
+Philosopher 0 has finished eating
+Philosopher 3 is eating
+Philosopher 4 has entered room
+Philosopher 1 is eating
+Philosopher 1 has finished eating
+Philosopher 3 has finished eating
+Philosopher 4 is eating
+Philosopher 4 has finished eating
