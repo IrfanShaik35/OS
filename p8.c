@@ -17,3 +17,9 @@ int main()
     printf("After Thread\n");
     exit(0);
 }
+
+OUTPUT
+
+Before Thread
+Printing GeeksQuiz from Thread
+After Thread
