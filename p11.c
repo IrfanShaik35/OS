@@ -34,3 +34,13 @@ for(i=0;i<j;i++)
 printf("\n%s",fname[i]);
 
 }
+
+OUTPUT
+
+Enter the directory name:os
+Enter the number of files:2
+Enter file name to be created:os1
+Do you want to enter another file(yes - 1 or no - 0):0
+Directory name is:os
+Files names are:
+os1
