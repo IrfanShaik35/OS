@@ -44,3 +44,17 @@ else
 exit(0);
 getch();
 }
+
+OUTPUT
+
+Enter how many blocks already allocated: 3
+Enter blocks already allocated: 3
+1
+2
+Enter index starting block and length: 0 2
+0-------->1
+1 Block is already allocated
+2 Block is already allocated
+3 Block is already allocated
+4-------->1
+Do you want to enter more file(Yes - 1/No - 0)0
