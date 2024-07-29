@@ -46,3 +46,9 @@ int main()
 
     return 0;
 }
+
+OUTPUT
+
+Enter some data to write to shared memory
+hello
+You wrote: hello
