@@ -46,3 +46,13 @@ int main()
     printf("\nTotal Page Faults:\t%d\n", pageFaults);
     return 0;
 }
+
+OUTPUT
+
+Incoming         Frame 1         Frame 2         Frame 3
+4                        4                       -                       -
+1                        4                       1                       -
+2                        4                       1                       2
+4                        4                       1                       2
+5                        5                       1                       2
+Total Page Faults:      4
