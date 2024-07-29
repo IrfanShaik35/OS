@@ -35,3 +35,22 @@ int main()
 			printf("Not allocated");
 	}
 }
+
+OUTPUT
+
+Enter no. of blocks: 3
+
+Enter size of each block: 5
+3
+1
+
+Enter no. of processes: 3
+
+Enter size of each process: 1
+3
+5
+
+Block no.       size            process no.             size
+1               5               1                       1
+2               3               2                       3
+3               1               Not allocated
